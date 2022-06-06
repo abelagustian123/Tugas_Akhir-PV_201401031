@@ -1,0 +1,77 @@
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.exe
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.deps.json
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.runtimeconfig.json
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.pdb
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.AssemblyReference.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.Form1.resources
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.Properties.Resources.resources
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.GenerateResource.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.AssemblyInfoInputs.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.AssemblyInfo.cs
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.CoreCompileInputs.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.CopyComplete
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\refint\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.pdb
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.genruntimeconfig.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\ref\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.exe
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.deps.json
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.runtimeconfig.json
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.pdb
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.AssemblyReference.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.DataBarang.resources
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.Form1.resources
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.Properties.Resources.resources
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.GenerateResource.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.AssemblyInfoInputs.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.AssemblyInfo.cs
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.CoreCompileInputs.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.CopyComplete
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\refint\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.pdb
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.genruntimeconfig.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir - Copy\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\ref\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.exe
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.deps.json
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.runtimeconfig.json
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\TUGAS_AKHIR_PV.pdb
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.AssemblyReference.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.DataBarang.resources
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.Form1.resources
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.Properties.Resources.resources
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.GenerateResource.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.AssemblyInfoInputs.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.AssemblyInfo.cs
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.CoreCompileInputs.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.csproj.CopyComplete
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\refint\TUGAS_AKHIR_PV.dll
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.pdb
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\TUGAS_AKHIR_PV.genruntimeconfig.cache
+D:\Sem 4\Pemrograman Visual\Wajib\Tugas Akhir_201401031\TUGAS_AKHIR_PV\TUGAS_AKHIR_PV\obj\Debug\net6.0-windows\ref\TUGAS_AKHIR_PV.dll
